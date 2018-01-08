@@ -126,4 +126,9 @@ public class Heap {
         //return the status of the heap
         return heap.isEmpty();
     }
+	
+	public void gitTest()
+	{
+		System.out.println("This is a test for git");
+	}
 }
